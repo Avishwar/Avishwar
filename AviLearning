@@ -1,0 +1,7 @@
+valve open
+if valve is full
+if valve > high
+valve close
+else 
+if valve < low
+valve open
